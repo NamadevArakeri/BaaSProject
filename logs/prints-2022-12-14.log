@@ -1,0 +1,8 @@
+16:25:15.862 [main] INFO  Academy.base - Successfully Navigated to website
+16:25:16.477 [main] INFO  Academy.base - Clicked on Login link
+16:25:32.747 [main] INFO  Academy.base - Browser closed
+16:28:56.975 [main] INFO  Academy.base - Login with restricted users
+16:28:56.977 [main] INFO  Academy.base - login non-restricted users...
+16:31:55.286 [main] INFO  Academy.base - Successfully Navigated to website
+16:31:56.051 [main] INFO  Academy.base - Clicked on Login link
+16:32:12.306 [main] INFO  Academy.base - Browser closed
